@@ -1,1 +1,1 @@
-# pacman2
+# Pacman
