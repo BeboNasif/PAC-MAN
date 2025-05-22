@@ -1,2 +1,2 @@
 # Pacman
-![Pac-Man](pacman/Assets/down.png)
+![PAC-MAN](pacman/Assets/down.png)
