@@ -1,2 +1,2 @@
 # Pacman
-![PAC-MAN](pacman/Assets/Textures/down.png)
+![PAC-MAN](pacman/ScreenShots/1.png)
