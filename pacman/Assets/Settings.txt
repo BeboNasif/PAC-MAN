@@ -1,1 +1,1 @@
-bb:maxScore=20,moveDownkey=Down,moveLeftKey=Left,moveRightKey=Right,moveUpkey=Up,music=50,sound=50,;
+bb:maxScore=2750,moveDownkey=Down,moveLeftKey=Left,moveRightKey=Right,moveUpkey=Up,music=0,sound=0,;
